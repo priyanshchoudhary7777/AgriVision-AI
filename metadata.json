@@ -1,6 +1,0 @@
-{
-  "name": "AgriVision AI",
-  "description": "AI-powered plant-care assistant operating on See, Understand, Act, and Ask (SUAA) with multi-angle smart scan, blur detection, weather fusion, and voice assistant.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
